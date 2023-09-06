@@ -1,7 +1,7 @@
 .calculator form input:active {
-    background-color: #ff5733; /* Change to the color you prefer */
-    box-shadow: none; /* Remove box shadow when clicked */
-    color: #fff; /* Change text color */
+    background-color: #ff5733;
+    box-shadow: none;
+    color: #fff;
 }
 
 
