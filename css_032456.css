@@ -1,3 +1,12 @@
+.calculator form input:active {
+    background-color: #ff5733; /* Change to the color you prefer */
+    box-shadow: none; /* Remove box shadow when clicked */
+    color: #fff; /* Change text color */
+}
+
+
+
+
 *{
     margin: 0;
     padding: 0;
